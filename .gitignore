@@ -1,8 +1,0 @@
-# Ignore .out files
-*.out
-
-# Ignore .nix files
-*.nix
-
-# Ignore .lock files
-*.lock
